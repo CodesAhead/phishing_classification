@@ -37,5 +37,5 @@ There are 2456 records in total.
 
 #### Observation
 
-As we see through model accuracy on validation XGBOOST gave is the best accuracy of 95.84.Even random forest is pretty good with classifying our data target variable and have no sign of over fitting like XGBOOST. XGBOOST also give us better performance
+As we see through model accuracy on validation XGBOOST gave is the best accuracy of 95.84.Even random forest is pretty good with classifying our data target variable and have no sign of over fitting like XGBOOST. XGBOOST also give us better performance.
 Due to which we select this model for our classification problem.
